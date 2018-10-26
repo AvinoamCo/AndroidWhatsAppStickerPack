@@ -1,0 +1,45 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "MehablimStickerPack",
+      "name": "Daily Tanie",
+      "publisher": "HaMehablim Inc.",
+      "tray_image_file": "tray_DailyTanie.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_DailyTanie_special.webp"
+        },
+        {
+          "image_file": "02_DailyTanie_adams.webp"
+        },
+        {
+          "image_file": "03_DailyTanie_squidward.webp"
+        },
+        {
+          "image_file": "04_DailyTanie_qualitySeal.webp"
+        },
+        {
+          "image_file": "05_DailyTanie_goku.webp"
+        },
+        {
+          "image_file": "06_DailyTanie_foxT-pose.webp"
+        },
+        {
+          "image_file": "07_DailyTanie_reggieSigh.webp"
+        },
+        {
+          "image_file": "08_DailyTanie_reggieFace.webp"
+        },
+        {
+          "image_file": "09_DailyTanie_empty.webp"
+        }
+      ]
+    }
+  ]
+}
