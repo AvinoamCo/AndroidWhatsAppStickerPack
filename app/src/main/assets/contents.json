@@ -3,41 +3,113 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
-      "identifier": "MehablimStickerPack",
-      "name": "Daily Tanie",
-      "publisher": "HaMehablim Inc.",
-      "tray_image_file": "tray_DailyTanie.png",
+      "identifier": "Nintendo",
+      "name": "Nintendo Sticker Pack",
+      "publisher": "Avinoam",
+      "tray_image_file": "tray_reggieFace.png",
       "publisher_email":"",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "01_DailyTanie_special.webp"
+          "image_file": "01_NintendoStickerPack_kirby.webp"
         },
         {
-          "image_file": "02_DailyTanie_adams.webp"
+          "image_file": "02_NintendoStickerPack_yoshi.webp"
         },
         {
-          "image_file": "03_DailyTanie_squidward.webp"
+          "image_file": "03_NintendoStickerPack_reggieFace.webp"
         },
         {
-          "image_file": "04_DailyTanie_qualitySeal.webp"
+          "image_file": "04_NintendoStickerPack_reggieSigh.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "Memes",
+      "name": "Memes Sticker Pack",
+      "publisher": "Avinoam",
+      "tray_image_file": "tray_squidward.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_MemesStickerPack_dailyTannieSpecial.webp"
         },
         {
-          "image_file": "05_DailyTanie_goku.webp"
+          "image_file": "02_MemesStickerPack_noAnime.webp"
         },
         {
-          "image_file": "06_DailyTanie_foxT-pose.webp"
+          "image_file": "03_MemesStickerPack_squidward.webp"
         },
         {
-          "image_file": "07_DailyTanie_reggieSigh.webp"
+          "image_file": "04_MemesStickerPack_qualitySeal.webp"
         },
         {
-          "image_file": "08_DailyTanie_reggieFace.webp"
+          "image_file": "05_MemesStickerPack_goku.webp"
         },
         {
-          "image_file": "09_DailyTanie_empty.webp"
+          "image_file": "06_MemesStickerPack_empty.webp"
+        },
+        {
+          "image_file": "07_MemesStickerPack_indianVirgin.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "StairsRoomGang",
+      "name": "Stairs Room Gang Sticker Pack",
+      "publisher": "Avinoam",
+      "tray_image_file": "tray_reem.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_StairsRoomGangStickerPack_teacherIsrael.webp"
+        },
+        {
+          "image_file": "02_StairsRoomGangStickerPack_reem.webp"
+        },
+        {
+          "image_file": "03_StairsRoomGangStickerPack_shabitz.webp"
+        },
+        {
+          "image_file": "04_StairsRoomGangStickerPack_shaharRubin.webp"
+        },
+        {
+          "image_file": "05_StairsRoomGangStickerPack_shabitzBuyMoreCards.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "SSBM",
+      "name": "SSBM Sticker Pack",
+      "publisher": "Avinoam",
+      "tray_image_file": "tray_peoplesChamp.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_SSBMStickerPack_foxT-pose.webp"
+        },
+        {
+          "image_file": "02_SSBMStickerPack_falcoT-pose.webp"
+        },
+        {
+          "image_file": "03_SSBMStickerPack_peoplesChamp.webp"
+        },
+        {
+          "image_file": "04_SSBMStickerPack_zain.webp"
+        },
+        {
+          "image_file": "05_SSBMStickerPack_hungrybox.webp"
         }
       ]
     }
