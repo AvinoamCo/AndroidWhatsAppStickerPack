@@ -84,48 +84,6 @@
       ]
     },
     {
-      "identifier": "StairsRoomGang",
-      "name": "Stairs Room Gang Sticker Pack",
-      "publisher": "Avinoam",
-      "tray_image_file": "tray_reem.png",
-      "publisher_email":"",
-      "publisher_website": "",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "stickers": [
-        {
-          "image_file": "01_StairsRoomGangStickerPack_teacherIsrael.webp"
-        },
-        {
-          "image_file": "02_StairsRoomGangStickerPack_reem.webp"
-        },
-        {
-          "image_file": "03_StairsRoomGangStickerPack_shabitz.webp"
-        },
-        {
-          "image_file": "04_StairsRoomGangStickerPack_shaharRubin.webp"
-        },
-        {
-          "image_file": "05_StairsRoomGangStickerPack_shabitzBuyMoreCards.webp"
-        },
-        {
-          "image_file": "06_StairsRoomGangStickerPack_nataam.webp"
-        },
-        {
-          "image_file": "07_StairsRoomGangStickerPack_reemInWheels.webp"
-        },
-        {
-          "image_file": "08_StairsRoomGangStickerPack_reemDown.webp"
-        },
-        {
-          "image_file": "09_StairsRoomGangStickerPack_reemShtokShamen.webp"
-        },
-        {
-          "image_file": "10_StairsRoomGangStickerPack_reemShtokShamen2.webp"
-        }
-      ]
-    },
-    {
       "identifier": "SSBM",
       "name": "SSBM Sticker Pack",
       "publisher": "Avinoam",
